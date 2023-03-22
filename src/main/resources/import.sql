@@ -1,0 +1,14 @@
+INSERT INTO pais (nombre) VALUES ('Colombia');
+INSERT INTO pais (nombre) VALUES ('Spain');
+INSERT INTO pais (nombre) VALUES ('Thailand');
+INSERT INTO pais (nombre) VALUES ('Myanmar');
+INSERT INTO pais (nombre) VALUES ('US');
+INSERT INTO pais (nombre) VALUES ('Deutschland');
+INSERT INTO pais (nombre) VALUES ('France');
+INSERT INTO pais (nombre) VALUES ('Japan');
+INSERT INTO pais (nombre) VALUES ('Ecuador');
+INSERT INTO pais (nombre) VALUES ('Peru');
+INSERT INTO pais (nombre) VALUES ('Qatar');
+INSERT INTO pais (nombre) VALUES ('Argentina');
+INSERT INTO pais (nombre) VALUES ('Vietnam');
+INSERT INTO pais (nombre) VALUES ('Croatia');
